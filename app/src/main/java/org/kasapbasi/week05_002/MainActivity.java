@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
+// this is the comment
     private Button btn;
 
      class myClickHandler implements View.OnClickListener{
